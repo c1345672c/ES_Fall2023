@@ -15,4 +15,5 @@
 
 ## Lab 1-3 在TinkerCAD開一個新的Circuit, 分別使甪R, G, B三種顏色的LED, 讓LED ON, OFF的順序為R >> G >> B >> G >> R .... 無限循環
 
+https://github.com/Grace-TA/ES_Fall2023/assets/89304181/641042d0-708c-432e-8546-e4aa83aa903b
 
