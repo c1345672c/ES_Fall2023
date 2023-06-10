@@ -1,4 +1,4 @@
-# 2023 AI-based 嵌入式系統
+# 2023 人工智慧為基礎的嵌入式系統
 
 ## Powerful Tools
 
