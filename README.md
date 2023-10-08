@@ -1,5 +1,7 @@
 # 2023 人工智慧為基礎的嵌入式系統
 
+Course Link: https://ivory-gaura-57e.notion.site/2023-477be027e7a7473092b7e161aa8acb74
+
 ## Powerful Tools
 
 1. Tinkercad 登入: https://www.tinkercad.com/login
