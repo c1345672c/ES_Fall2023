@@ -19,6 +19,8 @@
 
 ### Circuit
 
+https://github.com/Grace-TA/ES_Fall2023/assets/89304181/4d58ea33-f9e8-4f0d-b984-cd71e4b7ca47
+
 <div align="left">
      <img 
       src="https://user-images.githubusercontent.com/89304181/137589897-c40100d5-3e87-4eca-a1b5-39c65ad7c3a8.png" 
@@ -63,6 +65,8 @@ seg71(1, 1, 1, 1, 1, 1, 1, 1); // 8
 <a name="222"/>
 
 ### Circuit
+
+https://github.com/Grace-TA/ES_Fall2023/assets/89304181/fae8ef82-644b-43e7-bc0f-31278f81208d
 
 ![image](https://github.com/Grace-TA/ES-Fall2021/blob/main/Lab4-7seg-lcd/Lab4-2.gif)
 
